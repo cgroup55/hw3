@@ -15,7 +15,7 @@ function App() {
   return (
     <>
     <EditDetails />
-    <Login />
+    {/* <Login /> */}
     <Profile/>
     <Register/>
     <SystemAdmin/>
